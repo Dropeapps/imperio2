@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title(' Cardápio Online ')
 st.subheader('PIZZAS PROMOCIONAIS:')
-st.markdown('•CALABRESA: ').upper() ('MOLHO DE TOMATE, CALABRESA, CEBOLA E ORÉGANO $32,99').lower()
+st.markdown('•CALABRESA: ').upper() st.markdown('MOLHO DE TOMATE, CALABRESA, CEBOLA E ORÉGANO $32,99').lower()
 
 st.markdown('•MUSSARELA: ').upper() ('MOLHO DE TOMATE, MUSSARELA E ORÉGANO $32,99').lower()
 
